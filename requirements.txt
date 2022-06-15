@@ -1,0 +1,23 @@
+atomicwrites==1.4.0
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+certifi==2022.5.18.1
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+flake8 @ file:///opt/conda/conda-bld/flake8_1648129545443/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1648544469310/work
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
+mypy @ file:///tmp/build/80754af9/mypy_1624522079895/work
+mypy-extensions==0.4.3
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pluggy @ file:///C:/ci/pluggy_1648042746254/work
+psutil @ file:///C:/ci_310/psutil_1642085916403/work
+py @ file:///opt/conda/conda-bld/py_1644396412707/work
+pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
+pyflakes @ file:///tmp/build/80754af9/pyflakes_1636644436481/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pytest==7.1.2
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+tomli @ file:///tmp/build/80754af9/tomli_1637314251069/work
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+wincertstore==0.2
+zipp @ file:///C:/ci/zipp_1652255909324/work
